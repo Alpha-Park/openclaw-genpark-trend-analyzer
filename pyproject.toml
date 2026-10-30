@@ -1,0 +1,12 @@
+[project]
+name = "openclaw-genpark-trend-analyzer"
+version = "1.0.0"
+description = "Analyzes social and commerce velocity signals to detect emerging product trends and viral engagement spikes"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
